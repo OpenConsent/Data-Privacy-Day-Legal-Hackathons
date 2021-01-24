@@ -3,7 +3,7 @@
 
 This is a very special year. we are ecstatic to be able to celebrate the success of our winning hackathon initiatives along with the legal and policy changes that make privacy enforceable with international standards.
 
-Finally with the Data Goverance Act, and CoE 101 +  the infrastructure we have so longed lobbied for, is here. Today, for the first International Privacy Day ever, the publically required infrastructure for people to access and use privacy rights, independent of services can be built, at a time when Covid threatens us all.  
+Finally with the Data Goverance Act, and CoE 101 +  the infrastructure we have so longed lobbied for, is here. Jan 30, for the first International Privacy Day ever, the publically sought after infrastructure for people to access and use privacy rights, independent of services can be built, at a time when Covid threatens us all.  
 
 # 2020 - Hypersped the multi-domain privacy standards 
 * April 2020 - ISO SC 27 voted for the consent receipt specification to become an ISO standard ISO 27560 Consent Record Information Structure 
