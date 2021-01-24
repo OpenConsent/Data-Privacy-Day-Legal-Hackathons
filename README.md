@@ -1,31 +1,47 @@
 # Data-Privacy-Legal-Hackathon
 10:30 am est - 
-International Data Privacy Legal Hackathon 
-Legal Privacy Hackathon for Computational Law and the governance of identity
+* International Data Privacy Legal Hackathon *
+** Legal Privacy Hackathon for Computational Law and the governance of identity
 
-Smart Species & the Open Consent Group is Co-hosting an event spanning 2+ days to continue a long tradition of International Data Privacy Legal Hacking,( in fact, this is how the consent receipt came to exist.)
+The new ANCR WG is co-hosting a community event on Saturday Jan 30, to review and update a long tradition of International Data Privacy Legal Hacking (this is how the consent receipt came to exist.)
  
-This hackathon invites past, present and future projects to evolve the cutting edge in data governance wishing to leverage the latest in data privacy legal standards to hack data privacy internationalisation. 
+This hackathon invites community driven groups to learn about the hacking efforts to develop computational privacy law, to hack terms and conditions, and improve the performance of privacy rights.   
  
-DPLH Sessions
 
-ANCR WG - Setup & Planning 
-Interop/Intro to the bleeding edge with legal hacking on computational privacy law and a list of topics.  Video Link and Github
-ANCR -  legal receipts - Hacking Enforceable` Privacy Rights
+DPLH Sessions Proposed for Saturday (edt Time zone) 
+
+7 am - aNG - getting organised - NGI Proposal Discussions 
+8 am - aNG - Architecture Session - using a conesnt gateway 
+9 am - Team / Group Sessions 
+
+10 am - Intro - Hacking Enforceable Privacy Rights
+* Privacy as Expected as a gatewat for consensus and consent 
+* computational privacy law 
+* Notice Receipts for any type of legal justification 
+* 2Factor Notice for Consent (or Consensus) 
+11 am - 
+
+12 pm 
+
+Setup & Planning Session 
+DG Stack - Interop/Intro to the standards and specs for computational privacy law existing topics (on0going)
+ANCR - 
 
 
-Background on the ANCR WG 
+Background 
 
-We are ecstatic \ to be able to celebrate the success of these initiatives along with the legal and policy change, we have hoped one day would result in enforceable privacy rights.  To this end, 7 years of volunteer contributions to the the Kantara Initiative on the Consent Receipt Specification.
-April 2020 - ISO SC 27 voted for the consent receipt specification to become an ISO standard ISO 27560 Consent Record Information Structure 
-May 4th, 2020 GDPR Consent Laws became Enforceable. 
-With these two results alone, we can now start to Decentralise Data Governance. 
-Not too mention 
-June 2020 - ISO 29184 :  The ISO standard the consent notice receipt was written  was published with the consent notice receipt in the appendix, realising (with enforceable law) the legal nature of the consent receipt. 
-Nov 2020 The Data Governance Act Draft was released for EU Single Market 
-Dec 2020 The Consumer Canadian Privacy Act - 
+This is a very special year. we are ecstatic to be able to celebrate the success of our winning hackathon initiatives along with the legal and policy changes that make privacy enforceable with international standards. 
 
-Now the infrastructure we have so longed lobbied for, is here. Today, for the first International Privacy Day ever, the publically required infrastructure for people to access and use privacy rights, independent of services can be built, at a time when Covid threatens us all.  
+2020 - Hypersped the international and multi-domain privacy standards 
+* April 2020 - ISO SC 27 voted for the consent receipt specification to become an ISO standard ISO 27560 Consent Record Information Structure 
+* May 4th, 2020 GDPR Consent Laws became Enforceable. [With these two results alone, we can now start to Decentralise Data Governance.] 
+
+Legal Standards Matured in 2020
+* June 2020 - ISO 29184 :  The ISO standard the consent notice receipt was written  was published with the consent notice receipt in the appendix, realising (with enforceable law) the legal nature of the consent receipt. 
+* Nov 2020 The Data Governance Act Draft was released for EU Single Market 
+* Dec 2020 The Consumer Canadian Privacy Act - 
+
+Today, finally with the Data Goverance Act, and CoE 101 +  the infrastructure we have so longed lobbied for, is here. Today, for the first International Privacy Day ever, the publically required infrastructure for people to access and use privacy rights, independent of services can be built, at a time when Covid threatens us all.  
 
 
 Privacy Week Satellite - The Hero’s of Enforceable Privacy
