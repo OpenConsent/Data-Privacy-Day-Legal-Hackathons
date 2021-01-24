@@ -1,47 +1,17 @@
 # Data-Privacy-Legal-Hackathon Workshop
 * Computation Privacy Legal Hacking * 
 
-This year we are inviting groups to use this hackathon to self-organise and synchronise efforts, suggest sessions below and we can schedule them during them asynchrounously.  When you propose a session, please make a page for your session and then add a summary, and call connecting information.  People can also add their names to this page in support of this session and even add topics to sessions. 
+This is a very special year. we are ecstatic to be able to celebrate the success of our winning hackathon initiatives along with the legal and policy changes that make privacy enforceable with international standards.
 
-# Invited groups
-* Kantara Initiative: ANCR WG
-* DIACC - International SIG
-* W3C - Data Privacy Vocabulary
-* aNG - MyData Global
-* ToiP - Trust over IP - ISWG Notice & Consent Task Force
+Finally with the Data Goverance Act, and CoE 101 +  the infrastructure we have so longed lobbied for, is here. Today, for the first International Privacy Day ever, the publically required infrastructure for people to access and use privacy rights, independent of services can be built, at a time when Covid threatens us all.  
 
-# Sessions Proposed (list yours here) 
-* aNG - Architecture 
+# 2020 - Hypersped the multi-domain privacy standards 
+* April 2020 - ISO SC 27 voted for the consent receipt specification to become an ISO standard ISO 27560 Consent Record Information Structure 
+* May 4th, 2020 GDPR Consent Laws became Enforceable. [With these two results alone, we can now start to Decentralise Data Governance.] 
 
-# Intro Sessions Proposed 
-* Computation Privacy Legal Hacking
-* Enforceable privacy rights
-* Privacy as Expected: Consent Gateway
-* 2 Factor Consent 
+# Legal Standards Matured in 2020
+* June 2020 - ISO 29184 :  The ISO standard the consent notice receipt was written  was published with the consent notice receipt in the appendix, realising (with enforceable law) the legal nature of the consent receipt. 
+* Nov 2020 The Data Governance Act Draft was released for EU Single Market 
+* Dec 2020 The Consumer Canadian Privacy Act - 
 
-## Schedule 
-in eastern time zone
-
-6 am - aNG - Architecture
-7:00 
-8:00 
-9:00 
-10:00 
-11:00
-12:00 - Lunch
-12:30 - Demo Sessions
-12:35 - Demo 1
-12:50 - Demo 2
-1:10 - Demo 3
-1:30 - Demo 4
-1:45 - Demo 5
-2:00 - Wrap 
-
-# Propose Topic Tracks for 2021 DDG Landscape
-* International Data Privacy Interop  
-* Covid Credentials and Immunisations Passport
-* Children Surveillance, eLearning and Parental Consent (Do Not Track)
-* Privacy Broadcasting
-* Physical Privacy, (Consented Surveillance)
-* Video Surveillance & Facial Recognition
-
+# IN 2021 - We are co-creating the decentralised data governacnce landscape
