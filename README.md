@@ -1,5 +1,11 @@
-# Data-Privacy-Legal-Hackathon Workshop
-* Computation Privacy Legal Hacking * 
+# Data-Privacy-Legal-Hackathon Workshop - Jan 28, 2021 
+Agenda
+10:00am - 2:00 pm Edt - 
+* for Computational Legal Privacy Hacking (CLPH) Workshop * 
+* Intro-s To Hacking on Public Tools Tracks this year - 
+
+2:00 - 3:00 Open Space - (plan, organise, overcome) 
+**
 
 This is a very special year. we are ecstatic to be able to celebrate the success of our winning hackathon initiatives along with the legal and policy changes that make privacy enforceable with international standards.
 
