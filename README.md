@@ -1,6 +1,8 @@
 # Data-Privacy-Legal-Hackathon Workshop - Jan 28, 2021 
 Agenda  
-10:00am - 2:00 pm Edt - 
+10:00am - 2:00 pm Edt + 1 hr Open Space 
+https://global.gotomeeting.com/join/562338533
+
 * for Computational Legal Privacy Hacking (CLPH) Workshop * 
 * Intro-s To Hacking on Public Tools Tracks this year - 
 Wiki https://github.com/OpenConsent/Data-Privacy-Day-Legal-Hackathons/wiki
